@@ -56,6 +56,8 @@ int main(){
     
 
     cout << "O Herói de nome: " << nome_heroi << " está no nível: " << rank; 
+    
+    system("pause");
 
 }
 
